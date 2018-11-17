@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "364103165110",
+    "firebase_url": "https://lsit-cab-booking-driver-app.firebaseio.com",
+    "project_id": "lsit-cab-booking-driver-app",
+    "storage_bucket": "lsit-cab-booking-driver-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364103165110:android:6902f64574427bf2",
+        "android_client_info": {
+          "package_name": "driver.lsit.texi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364103165110-4kkiabniemaut6ppafcg7breeqtrcf4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbuGUFLGBbHFdgR4n4-wHUgyfu1pbjb6Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
